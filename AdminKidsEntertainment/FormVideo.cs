@@ -32,7 +32,7 @@ namespace AdminKidsEntertainment
         {
             try
             {
-                var client = new RestClient(Config.BASEURL + "/api/category?idlogin" + Config.ID_NHANVIEN + "&idmenu=5a71332c734d1d71dd52a78d");
+                var client = new RestClient(Config.BASEURL + "/api/category?idlogin=" + Config.ID_NHANVIEN + "&idmenu=5a71332c734d1d71dd52a78d");
                 var request = new RestRequest(Method.GET);
                 request.AddHeader("token", Config.TOKEN);
                 request.AddHeader("content-type", "application/json");

@@ -54,7 +54,7 @@ namespace AdminKidsEntertainment
                     LoginOBJ obj = JsonConvert.DeserializeObject<LoginOBJ>(response.Content);
 
                     //Nếu status = true và là admin thì cho đăng nhập vào
-                    if(obj.status && obj.data.group.isadmin)
+                    if(obj.status)
                     {
                         Config.ID_NHANVIEN = obj.data._id;
                         Config.TOKEN = obj.token;

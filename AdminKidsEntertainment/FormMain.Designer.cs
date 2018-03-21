@@ -143,6 +143,7 @@
             this.btnQRCode.Size = new System.Drawing.Size(109, 23);
             this.btnQRCode.TabIndex = 3;
             this.btnQRCode.Text = "QRCode";
+            this.btnQRCode.Click += new System.EventHandler(this.btnQRCode_Click);
             // 
             // FormMain
             // 

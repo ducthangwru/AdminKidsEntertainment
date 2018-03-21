@@ -37,5 +37,13 @@ namespace AdminKidsEntertainment
             frm.ShowDialog();
             this.Show();
         }
+
+        private void btnQRCode_Click(object sender, EventArgs e)
+        {
+            FormQRCode frm = new FormQRCode();
+            this.Hide();
+            frm.ShowDialog();
+            this.Show();
+        }
     }
 }

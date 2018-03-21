@@ -47,7 +47,6 @@ D:\VisualStudio2015\AdminKidsEntertainment\AdminKidsEntertainment\bin\Debug\Rest
 D:\VisualStudio2015\AdminKidsEntertainment\AdminKidsEntertainment\bin\Debug\System.ValueTuple.dll
 D:\VisualStudio2015\AdminKidsEntertainment\AdminKidsEntertainment\bin\Debug\System.ValueTuple.xml
 D:\VisualStudio2015\AdminKidsEntertainment\AdminKidsEntertainment\bin\Debug\Newtonsoft.Json.dll
-D:\VisualStudio2015\AdminKidsEntertainment\AdminKidsEntertainment\bin\Debug\Newtonsoft.Json.xml
 D:\VisualStudio2015\AdminKidsEntertainment\AdminKidsEntertainment\obj\Debug\AdminKidsEntertainment.FormMain.resources
 D:\VisualStudio2015\AdminKidsEntertainment\AdminKidsEntertainment\bin\Debug\DevExpress.XtraBars.v15.2.dll
 D:\VisualStudio2015\AdminKidsEntertainment\AdminKidsEntertainment\bin\Debug\DevExpress.XtraGrid.v15.2.dll
@@ -102,3 +101,11 @@ D:\VisualStudio2015\AdminKidsEntertainment\AdminKidsEntertainment\bin\Debug\ru\D
 D:\VisualStudio2015\AdminKidsEntertainment\AdminKidsEntertainment\obj\Debug\AdminKidsEntertainment.FormVideo.resources
 D:\VisualStudio2015\AdminKidsEntertainment\AdminKidsEntertainment\obj\Debug\AdminKidsEntertainment.FormVideoDetail.resources
 D:\VisualStudio2015\AdminKidsEntertainment\AdminKidsEntertainment\obj\Debug\AdminKidsEntertainment.FormChangePassword.resources
+D:\VisualStudio2015\AdminKidsEntertainment\AdminKidsEntertainment\bin\Debug\zxing.dll
+D:\VisualStudio2015\AdminKidsEntertainment\AdminKidsEntertainment\bin\Debug\zxing.presentation.dll
+D:\VisualStudio2015\AdminKidsEntertainment\AdminKidsEntertainment\bin\Debug\zxing.pdb
+D:\VisualStudio2015\AdminKidsEntertainment\AdminKidsEntertainment\bin\Debug\zxing.xml
+D:\VisualStudio2015\AdminKidsEntertainment\AdminKidsEntertainment\bin\Debug\zxing.presentation.pdb
+D:\VisualStudio2015\AdminKidsEntertainment\AdminKidsEntertainment\bin\Debug\zxing.presentation.xml
+D:\VisualStudio2015\AdminKidsEntertainment\AdminKidsEntertainment\obj\Debug\AdminKidsEntertainment.FormQRCode.resources
+D:\VisualStudio2015\AdminKidsEntertainment\AdminKidsEntertainment\bin\Debug\CloudinaryDotNet.dll
