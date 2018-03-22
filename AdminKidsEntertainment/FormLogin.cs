@@ -92,5 +92,13 @@ namespace AdminKidsEntertainment
                 DangNhap();
             }
         }
+
+        private void btnTaoTaiKhoan_Click(object sender, EventArgs e)
+        {
+            FormCreateAccount frm = new FormCreateAccount();
+            this.Hide();
+            frm.ShowDialog();
+            this.Show();
+        }
     }
 }

@@ -95,7 +95,7 @@ namespace AdminKidsEntertainment
 
                     Object obj = new
                     {
-                        url = uploadResult.Uri.PathAndQuery,
+                        url = uploadResult.Uri.AbsoluteUri,
                         text = meMoTa.Text
                     };
 

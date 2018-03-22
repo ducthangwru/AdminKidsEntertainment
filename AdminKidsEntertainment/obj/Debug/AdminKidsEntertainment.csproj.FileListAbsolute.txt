@@ -109,3 +109,4 @@ D:\VisualStudio2015\AdminKidsEntertainment\AdminKidsEntertainment\bin\Debug\zxin
 D:\VisualStudio2015\AdminKidsEntertainment\AdminKidsEntertainment\bin\Debug\zxing.presentation.xml
 D:\VisualStudio2015\AdminKidsEntertainment\AdminKidsEntertainment\obj\Debug\AdminKidsEntertainment.FormQRCode.resources
 D:\VisualStudio2015\AdminKidsEntertainment\AdminKidsEntertainment\bin\Debug\CloudinaryDotNet.dll
+D:\VisualStudio2015\AdminKidsEntertainment\AdminKidsEntertainment\obj\Debug\AdminKidsEntertainment.FormCreateAccount.resources
